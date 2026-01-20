@@ -1,4 +1,4 @@
-Aquí trobareu els links cap a totes les assignatures:
+Aquí trobareu els links cap a totes les assignatures (s'afegiran més conforme hi hagin apunts):
 [[Matemàtiques]]
 [[Física]]
 [[Tecno]]
