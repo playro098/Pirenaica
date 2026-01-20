@@ -40,7 +40,42 @@ $$
 AB \neq BA
 $$
 Cal ressaltar que les matrius (per norma general) no són commutatives, donat com es multipliquen. En el cas que si que ho fossin serien matrius **ortogonals**.
-Això és vital si volem treure factor comú, cosa que no podrem fer si el factor extret no està al mateix lloc en totes les equacions. Suposem que tenim l'equació matricial:
+
+##### Propietats de les matrius:
+Si bé no són commutatives, les matrius són **associatives** i **distributives**:
+Associativa: $ABC=A(BC)=(AB)C$
+Distributiva: $A(B+C)=AB+AC$ 
+
+### Potencies de matrius:
+Només es poden realitzar amb matrius quadrades. Hi han dos tipus de matrius notables en torn al resultat de multiplicar-les per elles mateixes:
+- #### Idempotents:  
+    - Sempre donen el mateix, es a dir: $A=A^2=A^3=A^n$ 
+- #### Cícliques:
+    - Al repetir la potencia un cop i un altre tornem a l'inici, per exemple: 
+      $A^2=B$, $B·A= A^3 =C$, $C·A=A^4=A$ 
+    - Aquesta es repetiria cada cop que l'elevem quatre vegades.
+També ens poden demanar que trobem la relació cada cop que les multipliquem, per exemple
+$$
+\begin{pmatrix} 2 & 0 \\ 0 & 2 \end{pmatrix}^2 = \begin{pmatrix} 4 & 0 \\ 0 & 4 \end{pmatrix}
+$$
+En aquest cas la matriu és podria expressar així quan veiem que cada multiplicació multiplica per dos els nombres en posicions $1,1$ i $2,2$: (amb $n$ com nombre de cops que elevem la matriu)
+$$
+\begin{pmatrix} 2^n & 0 \\ 0 & 2^n \end{pmatrix}
+$$
+### Equacions Matricials:
+Una equació matricial és una equació on les incògnites i/o les variables apareixen en forma de matrius en lloc de nombres reals o complexos. Com podria ser:
+$$
+A=BX
+$$
+O en formes més complexes:
+$$
+AX+XB=C
+$$
+$$
+X^2+AX+B=0
+$$
+#### Factor comú:
+Si volem treure factor comú cal tenir en compte la no commutabilitat de les matrius. No el podrem treure si no està al mateix lloc en totes les equacions. Per exemple, suposem que tenim l'equació matricial:
 
 $$
 X^2 + AX + BX + C X + DXB + EX^2 = 0
@@ -65,18 +100,6 @@ $$
 DXB+(A + B + C+X(E+I)) X=0
 $$
 
-### Equacions Matricials:
-Una equació matricial és una equació on les incògnites i/o les variables apareixen en forma de matrius en lloc de nombres reals o complexos. Com podria ser:
-$$
-A=BX
-$$
-O en formes més complexes:
-$$
-AX+XB=C
-$$
-$$
-X^2+AX+B=0
-$$
 
 
 ### Glossari
