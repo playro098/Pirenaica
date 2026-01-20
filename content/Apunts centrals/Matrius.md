@@ -1,2 +1,0 @@
-Siusplau que funcioni
-insallah

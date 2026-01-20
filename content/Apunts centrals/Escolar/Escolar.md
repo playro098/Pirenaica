@@ -1,4 +1,0 @@
-[[Tecno]]
-[[Física]]
-[[Filosofia]]
-[[Matemàtiques]]
