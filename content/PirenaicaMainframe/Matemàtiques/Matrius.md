@@ -2,10 +2,12 @@ Una matriu és un quadre de nombre de files i columnes $m·n$
 Hi han matrius $m$, és a dir, quadrades, per exemple:
 $$\begin{pmatrix} 1 & 2 \\ 3 & 4 \end{pmatrix}=A_m$$
 ### Suma i resta de matrius:
-Tant la suma com la resta són extremadament simples, l'únic que cal fer és restar cada terme pel seu equivalent en l'altre matriu. Les matrius han de tenir les mateixes dimensions per fer possible la suma o resta:$$
+Tant la suma com la resta són extremadament simples, l'únic que cal fer és restar cada terme pel seu equivalent en l'altre matriu. Les matrius han de tenir les mateixes dimensions per fer possible la suma o resta:
+$$
 A = \begin{bmatrix} 2 & 5 \\ 1 & 3 \end{bmatrix}, \quad
 B = \begin{bmatrix} 4 & 1 \\ 7 & 2 \end{bmatrix}
-$$$$
+$$
+$$
 A + B = \begin{bmatrix} 2+4 & 5+1 \\ 1+7 & 3+2 \end{bmatrix} = \begin{bmatrix} 6 & 6 \\ 8 & 5 \end{bmatrix}
 $$
 ### Multiplicació de matrius:
@@ -28,17 +30,20 @@ $$BA = \begin{bmatrix}
 \begin{bmatrix}23 & 34\\31 & 46\end{bmatrix}$$
 $$AB \neq BA$$
 Cal ressaltar que les matrius (per norma general) no són commutatives, donat com es multipliquen. En el cas que si que ho fossin serien matrius **ortogonals**.
-Això és vital si volem treure factor comú, cosa que no podrem fer si el factor extret no està al mateix lloc en totes les equacions. Suposem que tenim l'equació matricial:$$
+Això és vital si volem treure factor comú, cosa que no podrem fer si el factor extret no està al mateix lloc en totes les equacions. Suposem que tenim l'equació matricial:
+$$
 X^2 + AX + BX + C X + DXB + EX^2 = 0
 $$On $X$ és la matriu desconeguda i $A,B,C,D,E$ són matrius conegudes de la mateixa mida que $X$.
 Termes que multipliquen $X$ a la dreta: $AX, BX, CX,X^2,EX^2$  
-Podem factoritzar $X$ a la **dreta**:$$
+Podem factoritzar $X$ a la **dreta**:
+$$
 AX + BX + CX + EX^2+X^2 = (A + B + C+X(E+I)) X
 $$Termes com $DXB$  no es poden factoritzar ni a l’esquerra ni a la dreta, només reagrupar amb associativitat, que en aquest cas no ens serveix de res.
 $$
 DXB = D (X B) = (DX) B
 $$
-Per tant l'equació ens quedarà:$$
+Per tant l'equació ens quedarà:
+$$
 DXB+(A + B + C+X(E+I)) X=0
 $$
 ### Equacions Matricials:
