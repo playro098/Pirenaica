@@ -45,18 +45,26 @@ Això és vital si volem treure factor comú, cosa que no podrem fer si el facto
 $$
 X^2 + AX + BX + C X + DXB + EX^2 = 0
 $$
+
 On $X$ és la matriu desconeguda i $A,B,C,D,E$ són matrius conegudes de la mateixa mida que $X$.
 Termes que multipliquen $X$ a la dreta: $AX, BX, CX,X^2,EX^2$  
+
 $$
 AX + BX + CX + EX^2+X^2 = (A + B + C+X(E+I)) X
-$$Termes com $DXB$  no es poden factoritzar ni a l’esquerra ni a la dreta, només reagrupar amb associativitat, que en aquest cas no ens serveix de res.
+$$
+
+Termes com $DXB$  no es poden factoritzar ni a l’esquerra ni a la dreta, només reagrupar amb associativitat, que en aquest cas no ens serveix de res.
+
 $$
 DXB = D (X B) = (DX) B
 $$
+
 Per tant l'equació ens quedarà:
+
 $$
 DXB+(A + B + C+X(E+I)) X=0
 $$
+
 ### Equacions Matricials:
 Una equació matricial és una equació on les incògnites i/o les variables apareixen en forma de matrius en lloc de nombres reals o complexos. Com podria ser:
 $$
