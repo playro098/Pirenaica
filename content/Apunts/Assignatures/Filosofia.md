@@ -1,2 +1,0 @@
-[[Descartes]]
-[[Subjectivistes]]

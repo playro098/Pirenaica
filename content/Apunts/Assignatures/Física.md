@@ -1,1 +1,0 @@
-[[Moviment harmònic simple]]
