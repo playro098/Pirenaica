@@ -6,6 +6,8 @@ Aquí trobareu els enllaços cap a totes les assignatures (s'afegiran més segon
 
 [[Català]]
 
+[[Castellà]]
+
 [[Matemàtiques]]
 
 [[Filosofia]]
@@ -23,5 +25,5 @@ En la carpeta de notes diàries hi ha (o hauria d'haver-hi) pàgines que expliqu
 
 [[Credits]]
 
-El fitxer d'utilitats conte les imatges i altres recursos necessaris per al funcionament de la web, no hi ha cap informació útil.
+El fitxer de recursos conte les imatges i altres recursos necessaris per al funcionament de la web, no hi ha cap informació útil.
 Si algú fa alguna assignatura específica com Química o dibuix tècnic o qualsevol assignatura pròpia del social, artístic o científic, pot contribuir amb els seus apunts per incloure'ls en la web.

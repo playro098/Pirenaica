@@ -1,8 +1,11 @@
 ## Equacions del MHS
 **Moviment Harmònic Simple: (Totes les eq. són derivades de l'anterior)**
-$$x(t) = A·sin(\omega·t+\phi)$$  
-$$v(t) = \frac{dx(t)}{dt} = A·\omega·cos(\omega·t+\phi)$$  
-$$a(t) = \frac{dv(t)}{dt} = -A·\omega^2·sin(\omega·t+\phi) = -\omega^2·x(t)$$   
+$$x(t) = A·sin(\omega·t+\phi)$$
+
+$$v(t) = \frac{dx(t)}{dt} = A·\omega·cos(\omega·t+\phi)$$
+
+$$a(t) = \frac{dv(t)}{dt} = -A·\omega^2·sin(\omega·t+\phi) = -\omega^2·x(t)$$
+
 Tot moviment harmònic simple està definit per tres incògnites:
 $A$ = Acceleració
 $\omega$ = Vel. Angular
@@ -33,9 +36,15 @@ En els punts d'elongació màxima, la velocitat és nul·la i tota l'$E$ és pot
 $$|x|=A$$
 $$E_m=\frac{1}{2}·k·A^2$$
 En qualsevol altre punt de la trajectòria: (Aquesta eq es podria fer tant gran o petita com sigui necessari pel problema present)
+ 
 $$E_m=E_c+E_p=\frac{1}{2}·m·v^2+\frac{1}{2}·k·x^2$$
+
 o bé:
+
 $$E_m=\frac{1}{2}·m·A^2·\omega^2=\frac{1}{2}·k·A^2$$
+
 I per tant:
+
 $$\frac{1}{2}·m·v^2+\frac{1}{2}·k·x^2=\frac{1}{2}·k·A^2$$
+
 Aquest gràfic exemplifica el caràcter de l'$E_m$ , $E_c$ i $E_p$ en el moviment harmònic![[Pasted image 20260119112817.png]]
