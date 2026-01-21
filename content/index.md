@@ -4,13 +4,16 @@ title: Benvingut a la pirenaica!
 
 Aquí trobareu els enllaços cap a totes les assignatures (s'afegiran més segons hi hagi apunts):
 
+[[Català]]
+
 [[Matemàtiques]]
+
+[[Filosofia]]
 
 [[Física]]
 
 [[Tecno]]
 
-[[Filosofia]]
 
 En la carpeta de notes diàries hi ha (o hauria d'haver-hi) pàgines que expliquen el contingut fet cada dia a cada hora de classe llevat d'exàmens o altres hores en les quals no s'ha treballat contingut.
 

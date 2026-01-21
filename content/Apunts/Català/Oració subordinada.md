@@ -1,0 +1,53 @@
+### Oració subordinada substantiva: 
+- #### Concepte:
+	- Depèn de l'oració principal
+	- Encapçalada per conjunció
+	- Té funció sintàctica
+- #### Classificació:
+	- ##### Declaratives
+		- Estructura: **Nexe + proposició**
+		- Funció:
+			- Subjecte: És esperançador ==*que* hagis acabat la feina==
+			- CD: Tots els assistents sabien ==*que* la confèrencia no s'allargaria==
+			- ATR: La proposta fou ==*que* no traslladesim la fàbrica==
+			- CRV: Els aprenents s'han queixat ==*que* no els fan cas==
+			- CN: La por ==*que* l'enxampessin el negitejava sortint==
+			- CAdj: Les mares estan segures ==*que* els seus fills tornarien==
+			  CAdv: El projecte es farà independentment ==*que* sigui del gust de tothom==
+	- ##### Declatarives d'ininitu:
+		- Estructura: Inf + Preposició
+		- Funció:
+			- Subjecte: ==Ser optimista== t'ajudara amb la recuperació
+			- CD: Des de l'útlima caiguda volen ==caminar en basto==
+			- ATR: La nostre intenció era ==evitar conflictes==
+			- CRV: Els policies tendeixen ==*a* exagerar mesures de seguretat==
+			- Altres (CAdj, CN, CAdv)
+	- ##### Interrogatives:
+		- Estructura:
+			- Quantificadors:
+				- Quin/-a/-s/-es 
+				- Quant/-a/-s/-es
+			- Pronoms:
+				- Què
+				- Qui
+			- Adverbis: Quan, on, quant, com
+		- Tipus:
+			- Totals: Si + Preposició
+			- Parcials: Interrogatiu + Preposició
+	- ##### Exclamatives:
+		- Estructura
+			- Quantificadors nòminals:
+				- Quin/-a/-s/-es 
+				- Quant/-a/-s/-es
+			- Pronoms:
+				- Què
+				- Qui
+			- Adverbis: Quan, on, quant, com
+			- Conjuncions:
+				- Que 
+				- Si
+### Pàgines llibre:
+- De la 37 a la 41
+### Exercicis llibre:
+- Pàgina 50 i 51
+	- Exercicis 14, 15, 18, 19, 22, 23 i 25

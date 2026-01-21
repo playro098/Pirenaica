@@ -1,4 +1,3 @@
-Introducció:
 ## Equacions del MHS
 **Moviment Harmònic Simple: (Totes les eq. són derivades de l'anterior)**
 $$x(t) = A·sin(\omega·t+\phi)$$  
@@ -12,11 +11,17 @@ $\phi$ = Angle inicial
 En aquest moviment:
 $a = -\omega^2·x$
 La força responsable d'aquesta acceleració en un cos de massa **$m$** verificarà:
-$F = m·a=-m·\omega^2·x$
+$$F
+= m·a=-m·\omega^2·x
+$$
 I tenint en compte que $m$ i $\omega$ són constants podem escriure:
-$F=-k·x$
+$$
+F=-k·x
+$$
 i definim $k$ com:
-$k = m·\omega^2$
+$$
+k = m·\omega^2
+$$
 
 Aquesta expressió correspon a la llei de Hooke per la força elàstica, Així doncs podem afirmat que una força elàstica provoca un MHS.
 ## Energia del MHS

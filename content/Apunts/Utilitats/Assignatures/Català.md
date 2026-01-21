@@ -1,0 +1,1 @@
+[[Oració subordinada]]
