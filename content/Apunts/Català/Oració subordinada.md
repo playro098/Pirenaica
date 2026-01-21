@@ -7,20 +7,20 @@
 	- ##### Declaratives
 		- Estructura: **Nexe + proposició**
 		- Funció:
-			- Subjecte: És esperançador ==*que* hagis acabat la feina==
-			- CD: Tots els assistents sabien ==*que* la confèrencia no s'allargaria==
-			- ATR: La proposta fou ==*que* no traslladesim la fàbrica==
-			- CRV: Els aprenents s'han queixat ==*que* no els fan cas==
-			- CN: La por ==*que* l'enxampessin el negitejava sortint==
-			- CAdj: Les mares estan segures ==*que* els seus fills tornarien==
-			  CAdv: El projecte es farà independentment ==*que* sigui del gust de tothom==
-	- ##### Declatarives d'ininitu:
+			- Subjecte: És esperançador *que hagis acabat la feina*
+			- CD: Tots els assistents sabien *que la conferència no s'allargaria*
+			- ATR: La proposta fou *que no traslladesim la fàbrica*
+			- CRV: Els aprenents s'han queixat *que no els fan cas*
+			- CN: La por *que l'enxampessin el neguitejava sortint*
+			- CAdj: Les mares estan segures *que els seus fills tornarien*
+			  CAdv: El projecte es farà independentment *que sigui del gust de tothom*
+	- ##### Declaratives d'infinitiu:
 		- Estructura: Inf + Preposició
 		- Funció:
-			- Subjecte: ==Ser optimista== t'ajudara amb la recuperació
-			- CD: Des de l'útlima caiguda volen ==caminar en basto==
-			- ATR: La nostre intenció era ==evitar conflictes==
-			- CRV: Els policies tendeixen ==*a* exagerar mesures de seguretat==
+			- Subjecte: *Ser optimista t'ajudarà amb la recuperació
+			- CD: Des de l'última caiguda volen *caminar en basto*
+			- ATR: La nostre intenció era *evitar conflictes*
+			- CRV: Els policies tendeixen *a exagerar mesures de seguretat*
 			- Altres (CAdj, CN, CAdv)
 	- ##### Interrogatives:
 		- Estructura:
