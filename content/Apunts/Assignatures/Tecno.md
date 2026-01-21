@@ -1,1 +1,1 @@
-[[Circuits de corrent altern]]
+[[Circuits]]
