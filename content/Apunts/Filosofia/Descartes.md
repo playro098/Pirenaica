@@ -23,7 +23,7 @@ Allò que no podem contar perquè no té límit.
 
 
 
-
+(Trabajo en progreso)
 **Cual es el argumento al que recurre Descartes para poner en entredicho la validez de la sensibilidad? (Fàcil)**
 Que podries estar somiant o drogat, i si bé no ho sembla, cap la possibilitat, per tant cap el dubte, i per tant no podem arribar a la certessa des dels senits.
 
