@@ -1,2 +1,3 @@
-22/1/26: Examen Castellà
-22/1/26 Deures Història: Identificació de fonts
+26/1/26: Examen de tecno (opcional)
+29/1/26: Examen d'història
+

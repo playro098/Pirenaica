@@ -100,13 +100,79 @@ $$
 DXB+(A + B + C+X(E+I)) X=0
 $$
 
+### Matrius Inverses:
+La matriu és aquella que multiplicada per ella mateixa és igual a la identitat:
+$$
+A·A^{-1}=I
+$$
+Hi han matrius per les que no existeix la seva inversa, aquestes matrius s'anomenen matrius singulars.
+
+### Rang de la matriu:
+Per a tota matriu de la qual les seves files són linealment dependents, les seves columnes ho seran també. 
+
+Si bé és fàcil veure la dependencia en una matriu $2^2$, Pot ser molt més complex amb matrius més grans, la següent matriu presenta una dependencia entre les seves files d'aquesta manera:
+$$
+F_3=2F_1+F_2
+$$
+$$
+\begin{pmatrix} 1 & 0 & -2 \\ 3 & 1 & 0 \\ 5 & 1 & -4\end{pmatrix}
+$$
+Una matriu quadrada només té inversa si el seu rang és el maxim possible, és a dir, que sigui completament relacionar les files entre sí, fins i tot si només n'hi ha una.
+
+### Mètode de Gauss:
+El rang d'una matriu esglaonada coincideix amb el nombre de files no nul·les, per exemple:
+$$
+\begin{pmatrix} 1 & 5 & -2 \\ 0 & 1 & 3 \\ 0 & 0 & 0\end{pmatrix} Rang=2
+$$
+$$
+\begin{pmatrix} -2 & 4 & 3 \\ 0 & 1 & -1 \\ 0 & 0 & 2\end{pmatrix} Rang=3
+$$
+### Transformació de matrius:
+Hi han cinc maneres de modificar les matrius sense canviar el seu rang.
+1. Intercanviar de lloc dues files.
+2. Multiplicar o dividir tots els elements d'una fila o columna per un nombre diferent de $0$.
+3. Sumar o restar a una fila o columna els elements d'un altre línia paral·lela multiplicats per un nombre diferent de $0$.
+4. Suprimir les línies les quals només contenen zeros.
+5. 
 
 
+### Regla de Sarrus:
+Aquesta regla ens permet trobar nombres que ens donen informació sobre les característiques de la matriu. En una matriu $2^2$ el procediment és simple:
+$$
+\begin {pmatrix} a & b \\ c & d \end {pmatrix}
+$$
+$$
+Det = ad-bc
+$$
+En una matriu $3^2$ el procediment es més complicat,
+$$
+\begin {pmatrix} a & b & c \\ d & e & f \\ g & h & i\end {pmatrix}
+$$
+$$
+det=aei+bfg+cdh−ceg−bdi−afh
+$$
+En realitat en ambdós casos el procediment és restar les diagonals entre si, però amb matrius tres per tres , al ser intercanviables les seves files, hi ha tres diagonals per direcció. I recordem que restem sempre les diagonals de la segona direcció (esquerra a dreta) contra les de primera (dreta a esquerra).
+### El determinant:
+Ens dona informació en funció del seu valor
+1. El determinant és nul:
+	1. Té una fila o columna de zeros
+	2. Té dues files o columnes iguals
+	3. Té dues files o columnes proporcionals
+	4. Si una fila o columna és combinació lineal d'altres
+2. Si multipliquem per un nombre real tots els elements d'una fila o columna, el determinant quedara multiplicat per aquest nombre.
+3. Si canviem de files o columnes el determinant el canviarem de signe.
+4. Si a una fila d'un determinant li sumem una combinació lineal d'altres columnes aquest no canvia.
+5. El determinant de la identitat sempre es 1
+6. El determinant d'un producte de matrius quadrades és igual al producte dels seus determinant, en conseqüència, els determinants de dues matrius inverses són inversos entre sí
+7. El determinant d'una matriu és identic al de la seva transposada
 ### Glossari
+#### Matrius Esglaonades:
+
+
 #### Matriu transposada:
 Canviar files per columnes
 $$
-\begin{pmatrix} 1 & 2 \\ 3 & 4 \end{pmatrix} -> \begin{pmatrix} 1 & 3 \\ 2 & 4 \end{pmatrix}
+\begin{pmatrix} a & b \\ c & d \end{pmatrix} -> \begin{pmatrix} a & c \\ b & d \end{pmatrix} \begin{pmatrix} 1 & 2 \\ 3 & 4 \end{pmatrix} -> \begin{pmatrix} 1 & 3 \\ 2 & 4 \end{pmatrix} 
 $$
 #### Matrius commutatives:
 $A·B=B·A$
