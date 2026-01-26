@@ -1,3 +1,0 @@
-Aquesta carpeta conté reflexions que van (o intenten anar) més enllà dels apunts generals. A fi de donar als alumnes que ja tenen els coneixements necessaris per arribar al set i vuit algunes idees que intenten apropar-se al nou i deu. S'haurien considerar més com a exemples de redacció que no pas del tema del que parlen.
-
-No són contingut d'estudi, no són explícitament rellevants per al temari i no sempre seran utils.
