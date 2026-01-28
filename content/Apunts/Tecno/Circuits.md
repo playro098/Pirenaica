@@ -14,3 +14,4 @@ $$
 \sum \Delta V = \sum I·R
 $$
    És important tenir en compte que haurem de fer servir signes en la suma de $I·R$, donat que sinó el circuit sera impossible/Incorrecte 
+

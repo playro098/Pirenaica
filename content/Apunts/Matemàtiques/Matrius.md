@@ -107,6 +107,25 @@ A·A^{-1}=I
 $$
 Hi han matrius per les que no existeix la seva inversa, aquestes matrius s'anomenen matrius singulars.
 
+##### Com podem saber si existeix?
+Donada $A\subset M_m$,  $A^{-1} \subset$  si  $|A|$ , Es a dir, si una matriu quadrada té un $|A|$ diferent de zero aleshores té matriu inversa.
+$$
+A^{-1}=\frac{1}{|A|}·(A^t)^{Adj}
+$$
+$Adj$ = matriu adjunta
+Per fer la matriu transposada adjunta elaborem una matriu de la següent manera
+$$
+\begin{pmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \\ 7 & 8 & 9\end{pmatrix} =\begin{pmatrix} {\begin{pmatrix} 5 & 6  \\ 8 & 9\end{pmatrix}} & {\begin{pmatrix} 4 & 6  \\ 7 & 9\end{pmatrix}} & {\begin{pmatrix} 4 & 5  \\ 7 & 8\end{pmatrix}} \\ {\begin{pmatrix} 2 & 3  \\ 8 & 9\end{pmatrix}} & {\begin{pmatrix} 1 & 3  \\ 7 & 9\end{pmatrix}} & {\begin{pmatrix} 1 & 2  \\ 7 & 8\end{pmatrix}} \\ {\begin{pmatrix} 2 & 3  \\ 5 & 6\end{pmatrix}} & {\begin{pmatrix} 1 & 3  \\ 4 & 5\end{pmatrix}} & {\begin{pmatrix} 1 & 2  \\ 4 & 5\end{pmatrix}}\end{pmatrix}
+$$
+Mirem la posició de cada digit en la primera matriu i ignorem la seva fila i columna, amb els quatre digits restants elaborem una matriu més petita. Per exemple en la posició 1,1:
+$$
+\begin{pmatrix} *1* & 2 & 3 \\ 4 & 5 & 6 \\ 7 & 8 & 9\end{pmatrix} = \begin{pmatrix} 5 & 6  \\ 8 & 9\end{pmatrix}
+$$
+Un cop tenim aquest monstre l'hem de simplificar de la següent manera, trobem el determinant de cadascuna d'aquestes matrius $2^2$, que és molt més fàcil ($ad-bc$) i això ens donara una matriu $3^3$ dels determinants. Ara apliquem els cofactors, és a dir canviem els signes de la següent manera:
+$$
+\begin{pmatrix} + & - & + \\ - & + & - \\ + & - & +\end{pmatrix}
+$$
+
 ### Rang de la matriu:
 Per a tota matriu de la qual les seves files són linealment dependents, les seves columnes ho seran també. 
 
@@ -137,7 +156,7 @@ Hi han cinc maneres de modificar les matrius sense canviar el seu rang.
 
 
 ### Regla de Sarrus:
-Aquesta regla ens permet trobar nombres que ens donen informació sobre les característiques de la matriu. En una matriu $2^2$ el procediment és simple:
+Aquesta regla ens permet trobar el determinant que en dona informació sobre les característiques de la matriu. En una matriu $2^2$ el procediment és simple:
 $$
 \begin {pmatrix} a & b \\ c & d \end {pmatrix}
 $$
@@ -165,6 +184,10 @@ Ens dona informació en funció del seu valor
 5. El determinant de la identitat sempre es 1
 6. El determinant d'un producte de matrius quadrades és igual al producte dels seus determinant, en conseqüència, els determinants de dues matrius inverses són inversos entre sí
 7. El determinant d'una matriu és identic al de la seva transposada
+
+### Determinants de matrius de més de tres files:
+Agafem una columna, acte seguit (sense comptar la columna escollida) fem tantes matrius més petites com nombre de digits tingui la fila (quatre matrius de tres per tres si trevallavem amb una de quatre per quatre). Multipliquem una d'aquestes matrius per un dels digits, repetim amb tota la resta de digits, el resultat és el determinant.
+
 ### Glossari
 #### Matrius Esglaonades:
 
@@ -184,3 +207,9 @@ $A=A^2=A^3=A^n$
 #### Ortogonal:
 $A·A^t=I$
 
+Exercicis:
+2021 - S5 - 1
+2020 - S1 - 5
+2010 - S5 - 4
+2011 - S2 - 1
+2012 - S1 - 5
