@@ -4,11 +4,58 @@ Descartes pren el relleu dels filòsofs grecs en l'àrea del saber. I gran part 
 ### Certesa Psicològica/Lògica:
 Abans de comprovar les nostres armes hem de saber per a que les volem. Descartes distingeix entre dos tipus de certeses, amb l'objectiu de concretar quina de les dues és la clau per descobrir la veritat.
 La certesa Psicològica és de caràcter subjectiu i personal. No té una relació estricte amb la veritat, doncs la gran majoria d'aquestes veritats són opinions i observacions de les quals ja som conscients normalment. Cap de nosaltres afirmaria que el nostre color preferit és en realitat el millor color objectivament.
-La certesa Lògica pertany al món de la filosofia matemàtiques, camps d'estudi que no admeten potser o opinions i treballen únicament amb la lògica
+La certesa Lògica pertany al món de la filosofia matemàtiques, camps d'estudi que no admeten potser o opinions i treballen únicament amb la lògica, el nostre armament es centra en descobrir-la.
+
+### El dubte metòdic:
+Un cop sabem que volem trobar necessitem trobar un mètode adient. El dubte de Descartes es basa en una idea molt simple, allò que es veritable objectivament també esta més enllà del dubte. O sigui, si no hi ha cap manera de dubtar de la certesa d'un saber aleshores el podem afirmar sense dubtes. Per contrapartida, no podrem afirmar absolutament res del que podem dubtar, fins i tot si és un dubte que s'apropa el ridícul i l'improbable.
+
+### Primer dubte, la sensibilitat:
+Descartes no és el primer en qüestionar la validesa dels nostres sentits, tot i així aquest pas és essencial per començar el seu raonament. Els nostres ulls no són precisament famosos per la seva fiabilitat. Hi han il·lusions òptiques que ens fan dubtar del que veiem, així com a vegades creiem escoltar coses i resulta que les nostres orelles han decidit canviar lleugerament les paraules del nostre interlocutor. En conclusió, tots els sentits ens poden fallar i per tant podem dubtar sempre de la informació que ens donen.
+
+A Descartes aquest argument li va agradar però el va portar un pas més lluny. Les il·lusions òptiques posen en dubte cada percepció individual però si si estiguéssim somiant? Fins el moment en que ens despertem els somnis poden semblar tan reals com el món en el que vivim, realment podem assegurar sense cap dubte que no estem somiant ara mateix?
+O com sabem que no estem patint els efectes d'una droga d'extrema potencia?
+No ho podem saber sense dubtes, podem afirmar tant com vulguem que aquestes preposicions són, si més no, altament improbables, però això no invalida que per poder podrien ser reals. I precisament en això es basa el dubte metòdic.
+
+### La raó:
+Devant del primer dubte de Descartes molts pensadors es refugien en la raó com a font de certesa. És igual quantes drogues prenguis o com de profund sigui el teu somni, dos més dos sempre és quatre i el teorema de Pitàgores sempre serà veritat, al marge de la distorsió de les nostres percepcions.
+
+Abans de procedir cal internalitzar la diferencia entre la negació i perquè els somnis no són suficients per negar la lògica. Si bé la percepció és personal i subjectiva, la raó no. Imaginem un partit de futbol, si Ferran Torres decideix drogar-se i acaba veient vuit pilotes i trenta-quatre porteries això no implica que realment hi siguin però les veurà, ara bé, si Ferran agafa la pilota amb les mans, no importa com de drogat estigui que segueix sent mans. Les normes del futbol estan més enllà de la perspectiva individual del jugador.
+
+Un cop hem entes això ja podem començar a dubtar sobre la raó. Hem establert que els somnis no seran suficient ja que ni la nostra imaginació és capaç d'imaginar-se allò que contradiu la lògica, podria semblar que no podem dubtar però realment encara hi ha una manera.
+I si la lògica no correspongués a la veritat? Imaginem per un instant que hem nascut en un món on dos més dos és cinc, al néixer un geni maligne ens va hipnotitzar i ens va fer creure que dos més dos és quatre. Tot i que seria impossible imaginar-s'ho, realment dos més dos seria cinc en el món real, encara que no tinguéssim la capacitat de concebir-ho.
+
+#### El geni maligne:
+El nostre geni seria així com una especie de Déu malvat, la raó per la que li diem geni és perqué Descartes li deia Déu en un inici però ràpidament es va donar compte que Déu no pot ser maligne.
+Déu és un esser perfecte i allò que és perfecte ha de ser necessàriament perfectament bo. De manera que l'existència d'un Déu maligne és impossible. D'aquí que li diguem geni, és un esser de poder incomparable però no perfecte.
+
+### Que ens queda?
+A través del dubte metòdic hem arribat a la conclusió que no podem estar segurs de que allò que ens diuen les nostres percepcions sigui real, així com també hem divorciat lògica i raó de la veritat, ja que hem demostrat que seria possible que una cosa lògica no fos vertadera (per molt que no la puguem imaginar). Bé sembla ser que hem arribat a un punt mort on no podem saber res. Però realment encara ens queda un últim recurs. 
+Tota l'estona hem estat dubtant i dubtant però en cap moment ens hem parat a pensar en una pregunta elemental, qui dubta? Jo per la força, d'acord per dubtar has d'existir no? Si, perfecte existim nosaltres (nosaltres en el sentit de només jo o tu des de les nostres perspectives individuals). Vet aquí el famós "Cogito Ergo Sum"
+
+#### Cogito ergo sum
+(Cogito = penso, Ergo = per tant, Sum = sóc)
+Per pensar dubto i com que dubto per tant algú dubta (jo) per tant jo existeixo en alguna mesura. Això és extremadament important perquè a partir d'aquí hi ha multiples deduccions que podem dur a terme.
+
+#### Res cogitans: (Res = cosa, Cogitans = pensant)
+El saber que existim no vol dir que jo, en concret, amb el meu cos, roba, nom i personalitat existeixi. Aquests detalls formen part del món impossible de conèixer amb certesa. L'únic que podem afirmar realment és que existim en forma del res cogitans o la cosa pensant. 
+
+### Solipsisme:
+Si no continuéssim el raonament de Descartes o simplement no creguéssim que els seus arguments són vàlids, el solipsisme no creu en res més que el que ja hem dit. Aquí ja no existeix la veritat objectiva i tot passa a ser diferents graus de probable, acceptem el dubte i proseguim. D'aquí neixen els empirismes i altres concepcions per a la veritat que passa a ser allò que és més útil, allò que creuen els experts o el que decideixi la societat.
+
+Si volem conservar la veritat lògica de Descartes i poder seguir confiant en l'absoluta certesa que ens proporciona la deducció hem de trobar la manera de retornar la seva validesa a la raó.
+Per a Descartes, aquest rescat metafísic vindrà de Déu.
+
+### Déu:
+Déu és un esser perfecte i infinit, al ser perfecte també ha de ser perfectament bo. Dir que és un esser no és del tot precís, dir que és tampoc.
+Déu no és en el sentit de que en el món que nosaltres habitem, la realitat, no inclou a Déu. Ja que n'està fora i per tant no és com és una pedra o to o jo.
+Esser tampoc perquè no té un jo, realment per no tenir no té cap característica propia d'un esser. És una cosa per sobre de la realitat perfectament bona que, per exemple, no pot voler res.
+
+
+
 
 ### tipus d'idees:
-1. innates
-2. 
+1. Innates:
+2. Factícies: 
 3. Fictícies: Fantasies
 ### Conclusions:
 1. Hi ha un jo

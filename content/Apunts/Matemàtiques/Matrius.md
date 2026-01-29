@@ -125,7 +125,11 @@ Un cop tenim aquest monstre l'hem de simplificar de la següent manera, trobem e
 $$
 \begin{pmatrix} + & - & + \\ - & + & - \\ + & - & +\end{pmatrix}
 $$
-
+Un cop fet això podem tornar a la funció:
+$$
+A^{-1}=\frac{1}{|A|}·(A^t)^{Adj}
+$$
+I ja podem treballar amb $(A^t)^{Adj}$.
 ### Rang de la matriu:
 Per a tota matriu de la qual les seves files són linealment dependents, les seves columnes ho seran també. 
 
@@ -213,3 +217,6 @@ Exercicis:
 2010 - S5 - 4
 2011 - S2 - 1
 2012 - S1 - 5
+Pagina 87
+1. 30
+2. 34
