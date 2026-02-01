@@ -150,13 +150,14 @@ $$
 $$
 \begin{pmatrix} -2 & 4 & 3 \\ 0 & 1 & -1 \\ 0 & 0 & 2\end{pmatrix} Rang=3
 $$
+Ara bé normalment no ens donaran la matriu acabada per començar, haurem de transformar-la i veure quantes files nul·les ens queden, per això hem de fer:
 ### Transformació de matrius:
 Hi han cinc maneres de modificar les matrius sense canviar el seu rang.
 1. Intercanviar de lloc dues files.
 2. Multiplicar o dividir tots els elements d'una fila o columna per un nombre diferent de $0$.
 3. Sumar o restar a una fila o columna els elements d'un altre línia paral·lela multiplicats per un nombre diferent de $0$.
 4. Suprimir les línies les quals només contenen zeros.
-5. 
+5. Relacionar linealment dues files.
 
 
 ### Regla de Sarrus:
@@ -192,6 +193,12 @@ Ens dona informació en funció del seu valor
 ### Determinants de matrius de més de tres files:
 Agafem una columna, acte seguit (sense comptar la columna escollida) fem tantes matrius més petites com nombre de digits tingui la fila (quatre matrius de tres per tres si trevallavem amb una de quatre per quatre). Multipliquem una d'aquestes matrius per un dels digits, repetim amb tota la resta de digits, el resultat és el determinant.
 
+## Resolució mitjançant Gauss:
+1. Troba el determinant, si hi ha una incognita és probable que només hi hagi un nombre que no doni $Det=0$, aquest serà el nombre important.
+2. Un cop trobat el nombre hauries d'intentar trobar relacions entre files o columnes, recorda que pots intercanviar-les amb relativa llibertat si són paral·leles.
+3. Continua el procediment fins que tinguis una matrius esglaonada i hauràs arribat al final. Compta el nombre de files no nul·les i ja tens el rang. Recorda que si la matriu té un rang menor a tres no podràs invertir-la.
+##### Recordatoris:
+- Si tota una fila o columna es pot dividir pel mateix nombre és probable que sigui important per resoldre-la
 ### Glossari
 #### Matrius Esglaonades:
 

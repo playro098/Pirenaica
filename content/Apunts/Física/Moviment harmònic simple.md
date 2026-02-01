@@ -55,3 +55,13 @@ T=2\pi·\sqrt{\frac{l}{g}}
 $$
 Aquí podem veure que el moviment del pèndol simple depen únicament de la longitud del pèndol en qüestió i l'acceleració de la gravetat.
 
+### Formulari:
+Bàsiques:
+$$
+\omega=\frac{2\pi}{T} \qquad k=m·\omega^2 \qquad a = -\omega^2·x
+$$
+Energia:
+$$
+(punt\ d'x\ maxima) \quad E_m=\frac{1}{2}·k·A^2
+$$
+

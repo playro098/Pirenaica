@@ -1,1 +1,1 @@
-:-/
+Carla Herrero - Esquema exercicis història

@@ -26,14 +26,24 @@ Spinoza i Leibnitz:
 Els nombres ens són ensenyats però no cal que ens ensenyin l'idea d'unitat, els empiristes negaran les idees innates, els racionalistes les defensaran.
 Nosaltres reconeixem les coses sense que arribin a ser-ho.
 
-### Ideas complejas:
+### Ideas complexes:
 El resultat de processar idees més simples podem arribar a conceptes més complexos. Darrere d'aquestes idees n'hi han de més bàsiques i així successivament.
 
 Ens hem d'imaginar la ment com una maquina de fer xurros. Nosaltres no volem els ingredients volem el producte. El funcionament de la lògica és el mateix, no crea nous sabers doncs els ingredients ja estan allà, simplement els transforma en un estat (idees complexes) el qual es pot treballar i entendre millor.
 
 Els nens patits repeteixen les accions perquè els fascina el descobriment de les idees més bàsiques. L'únic que aixó demostra és coneixement sobre la causa del moviment de la pilota
 ##### Nota a pie de pagina:
-Això també aplica allà on descobrim noves coses i conceptes
+Això també aplica allà on descobrim noves coses i conceptes.
 
+### El problema de l'empirisme:
+Si només tenim l'experiència com a font de saber, en realitat no tenim cap font de saber perquè ja sabem que els sentits molt fiables no són.
+La gran pregunta aleshores es com diem amb certesa que hi han causes (realment és com diem amb certesa qualsevol cosa). Com sabem que el que ha passat tornarà passar? No hi ha res que ens garanteix per exemple que si tirem una pilota a l'aire aquesta ha de caure. Realment no hi ha una norma indubtable. L'empirisme no ens deixa anar més enllà de la subjectivitat. No nega que puguin haver-hi causes o lleis objectives però al cap i a la fi no podrem conèixer-les mai sense dubte.
+
+### Constructes mentals:
+La nostre ment també és capaç de construir idees noves mitjançant allò que veu. Per exemple l'idea de causa la construeix el nostre cervell per costum. Sempre ho hem vist així, per tant automàticament creem la idea de causa en el nostre cervell. El primer cop que veiem un cigne blanc no afirmarem aleshores que tots els cignes ho són, però al cap de vint-mil cignes pot ser que si? Vint-mil cignes blancs no fan impossible el cigne negre però aquest mateix procés és el que la nostre ment fa servir per crear aquests constructes. Que tots els objectes que veiem estiguin sota els efectes de les lleis de la física no vol dir que en algun lloc no n'hi hagi un que no aplica. Que durant totes les nostres vides el sol hagi sortit per l'horitzó no vol dir que necessàriament hagi de sortir demà.
+
+El primer cop que provem una taronja no sabem quin gust té, podríem dir que té gust a citric però això només ho podem dir si hem provat altres cítrics.
+
+Un exemple alternatiu podria ser que un noi/noia tingui parella. A la primera pot dir que coneix realment la veritat sobre el genere oposat? No, a el/la segon/a? No. Només podrem dir que realment sap quan podem dir alguna cosa com "tots/es són iguals". Perquè aquest "coneixement" no es limita al cas concret sino a tots els casos de i per tant és finalment un saber. Per contrapartida, el màxim saber 
 ### Lorentz:
 
