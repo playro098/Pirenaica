@@ -35,7 +35,7 @@ I bé, perquè Descartes no caurà en una falacia lògica quan argumenti contra 
 
 ### Que ens queda?
 A través del dubte metòdic hem arribat a la conclusió que no podem estar segurs de que allò que ens diuen les nostres percepcions sigui real, així com també hem divorciat lògica i raó de la veritat, ja que hem demostrat que seria possible que una cosa lògica no fos vertadera (per molt que no la puguem imaginar). Bé sembla ser que hem arribat a un punt mort on no podem saber res. Però realment encara ens queda un últim recurs. 
-Tota l'estona hem estat dubtant i dubtant però en cap moment ens hem parat a pensar en una pregunta elemental, qui dubta? Jo per la força, d'acord per dubtar has d'existir no? Si, perfecte existim nosaltres (nosaltres en el sentit de només jo o tu des de les nostres perspectives individuals). Vet aquí el famós "Cogito Ergo Sum"
+Tota l'estona hem estat dubtant i dubtant però en cap moment ens hem parat a pensar en una pregunta elemental, qui dubta? Jo per la força, d'acord per dubtar has d'existir no? Si, perfecte existim nosaltres (nosaltres en el sentit de només jo o tu des de les nostres perspectives individuals). Vet aquí el famós "Cogito Ergo Sum" (i per tant també el "res cogitans" que en forma part)
 
 #### Cogito ergo sum
 (Cogito = penso, Ergo = per tant, Sum = sóc)
@@ -88,10 +88,12 @@ No és circular perqué l'ordre és el següent:
 3. Déu demostra (ara si) que la lògica és correspon amb la veritat.
 Si l'argumentació fos circular podriem començar per qualsevol de les parts del raonament però aquest és lineal, la cadena de deduccions té inici i final i per tant no és circular.
 
+## Perfecció i infinits:
+Quan Descartes invoca el dubte del geni maligne proposa la possibilitat de que la realitat sigui irracional. Quan diem que $2+2=4$ en realitat el $4$ no esta afegint nova informació, no hi ha res que diguem que no ho digues $2+2$. El mateix succeeix quan fem qualsevol deducció com per exemple que totes les canoes són embarcacions i que per tant algunes embarcacions són canoes. El que introdueix Descartes és la canoa que no és una embarcació. El dos més dos que sent quatre en realitat dona $5$. 
 
+La solució final de Descartes serà trobar una idea que no admeti la contradicció a través del cogito. El existir mentre pensem implica un limit a la nostra existencia, durant i mentre puguem pensar existirem. L'existència de nosaltres com allò finit implica l'existència d'allò infinit i sense limit que ha de ser Déu. Perquè no Déu no serà susceptible al geni maligne que fins a aquel moment aniquilava qualsevol possibilitat o aproximació a una solució lògica? Perquè el geni fa po possible la contradicció, però la idea de Déu no pot ser contradictoria perquè és una, no hi ha canoes que són i no són embarcacions, no hi ha $2+2=5$ perquè Déu només implica el $2$ sense cap igual. Sense més d'una manera d'entendre una cosa no hi ha contradicció possible. El no finit ha d'estar allà on acaba el finit i per tant Déu, i si hi ha Déu no hem de patir perquè la raó és assenyada i ens guia cap a la veritat.
 ## Glossari i recursos: (no cal estudiar tot però són termes útils)
-##### L'infinit:
-Allò que no podem contar perquè no té límit.
+
 ##### Les fal·làcies de l'argumentació circular i la tesi infalsificable
 Arguments dels quals la validesa depen d'ells mateixos sense suport logic:
 "Déu existeix perqué ho diu la bibla" -> "La biblia té raó perqué la va fer Déu" (circular)

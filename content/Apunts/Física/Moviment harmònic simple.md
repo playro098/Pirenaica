@@ -12,7 +12,9 @@ $\omega$ = Vel. Angular
 $\phi$ = Angle inicial
 ## Dinàmica del MHS:
 En aquest moviment:
-$a = -\omega^2·x$
+$$
+a = -\omega^2·x
+$$
 La força responsable d'aquesta acceleració en un cos de massa **$m$** verificarà:
 $$F
 = m·a=-m·\omega^2·x
