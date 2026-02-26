@@ -1,0 +1,3 @@
+Els cilindres poden tenir una o dues entrades pel líquid o gas escollit. Normalment els pistons d'una entrada funcionen amb una roda d'inèrcia que ajuda al mecanisme a tornar a la posició inicial contínuament. Això és útil quan volem fer servir un gas per propulsar alguna cosa. Aquest és el principi basic dels trens de vapor. On el vapor de la caldera va pels pistons i un cop completa l'extensió es deixa sortir el gas i es repeteix el procés.
+
+En mecanismes hidràulics s'ha de fer força en ambdues direccions ja que s'utilitzen er motius diferents i no són mai mecanismes de propulsió directe. Es fan servir en maquinaria que necessita forces molt altes i estables, així com en suspensions i aparells de construcció.

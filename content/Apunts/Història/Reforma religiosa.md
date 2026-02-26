@@ -1,0 +1,9 @@
+- Limitar l'influencia de l'església
+- Secularitzar la societat
+- No té religió oficial (aconfessional)
+- Secularització dels cementiris
+- supressió del pressupost del clergat
+- Legalització del divorci
+- Dissolució de la companyia de Jesús i confiscació dels seus bens
+- L'establiment del matrimoni civil
+- 1933 llei de congregacions: Prohibia l'ensenyament, comerç i industria
