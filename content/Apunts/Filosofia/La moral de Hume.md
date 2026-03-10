@@ -15,8 +15,7 @@ El que ens fa morals és donar prioritat a aquesta creença per sobre de la rest
 "Nos creemos libre de tara cuando insultamos al tarado"
 
 
-
-
+Alguien forzado a actuar siempre justamente es una buena persona o tan solo se ve obligado a actuar.
 
 
 

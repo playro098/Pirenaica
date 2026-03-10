@@ -31,3 +31,14 @@ Cabdal en canonada:
 $$
 Q=A·v \qquad \frac {m^3}{t}=\frac{m^3}{\frac{m}{t}}=\frac{m^2}{v}
 $$
+
+
+GASOS:
+$$
+A-\Delta x= \Delta v \qquad(canvis \space de \space volum)
+$$
+$$
+W=p(V_2-V_1) \qquad (energia)
+$$
+
+
