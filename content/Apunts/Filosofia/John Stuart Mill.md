@@ -1,0 +1,7 @@
+John Stuart Mill va ser el creador de la primera versió moderna de l'utilitarisme.
+
+## Utilitarisme:
+Aquesta és una filosofia moral conseqüèncialista (o sigui, que la moralitat d'una acció X no depen de la intenció o l'acció en sí sinó en les conseqüències de la mateixa) que valora la felicitat. És a dir, sempre que actuem haurem de prendre aquelles accions que portin a la major felicitat pel major nombre de persones. D'aquesta manera tot el que és dolent és el que causa més infelicitat que felicitat i el bo és allò que causa més felicitat que infelicitat.
+
+Un exemple molt comú quan es parla d'aquestes idees és el dilema del tramvia. Si un tramvia està a punt d'atropellar a quatre persones, és moral canviar-lo de via a una on només n'hi ha una? Kant per exemple diria que no podem matar a una persona per salvar-ne quatre perquè matar és immoral sempre. En canvi Mill diria que si, que hem de prioritzar la major felicitat i per tant les vides.
+Això també aplica a casos més controvertits com per exemple una reformulació del problema anterior. Si un metge té quatre pacients, cadascun necessitant un transplant d'un organ diferent, i entra un turista a la seva consulta que és compatible amb els quatre, hauria el metge de robar els organs del turista. Per a Mill si que ho seria ja que al cap i a la fi quatre vides valen més que una.
